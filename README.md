@@ -1,6 +1,6 @@
 **EXPLORATORY DATA ANALYSIS- SPORTS**
 
-**About Project:**
+
 
 **TASK:** Exploratory Data Analysis on IPL dataset
 
