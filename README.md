@@ -1,7 +1,6 @@
 **EXPLORATORY DATA ANALYSIS- SPORTS**
 
 
-
 **TASK:** Exploratory Data Analysis on IPL dataset
 
 **Dataset link:** https://bit.ly/34SRn3b
@@ -19,3 +18,14 @@ match_id (1 to 11415), inning (1 to 5), batting_team (15 Teams) bowling-team (15
 
 **from matches data:**
 id (record index), season (2008 to 2019), city, date, team1, team2, toss winner, toss decision (bat/field), result, dl_applied (1-yes, 0-no), winner, win_by_runs, win_by_wickets, player_of_match, venue, umpire1, umpire2, umpire3 
+
+**Analysi:**
+
+Firstly we prepared summary for both the datasets to understand the basic information of data.
+
+Then I used EDA technique. EDA is nothing but data exploration technique to understand the various aspects of the data. Here I have used Univariate, Bivariate amd Multivariate visualization techniques.
+
+I made below charts/graphs using python matplotlib library:
+
+
+
