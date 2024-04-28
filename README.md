@@ -3,6 +3,8 @@
 
 **TASK:** Exploratory Data Analysis on IPL dataset
 
+**Objective:** Perform 'Exploratory Data Analysis' on dataset 'Indian Premier League'. 
+
 
 **Dataset link:** https://bit.ly/34SRn3b
 
