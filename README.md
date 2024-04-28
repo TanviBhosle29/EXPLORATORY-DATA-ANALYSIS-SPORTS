@@ -29,7 +29,35 @@ Firstly we prepared summary for both the datasets to understand the basic inform
 
 Then I used EDA technique. EDA is nothing but data exploration technique to understand the various aspects of the data. Here I have used Univariate, Bivariate amd Multivariate visualization techniques.
 
-I made below charts/graphs using python matplotlib and seaborn libraries:
+I presented below informations using charts/graphs using python matplotlib and seaborn libraries:
+
+1) Total IPL seasons
+
+2) IPL team won by scoring the maximum runs
+
+3) IPL team won by taking the maximum wickets
+
+4) IPL team won by taking the minimum wickets
+
+5) Seasonwise number of matches played
+
+6) Seasonwise number of teams played
+
+7) Successful IPL team
+
+8) Venue for maximum matches
+
+9) Umpire for maximum matches
+
+10) Performance of the bowlers
+
+11) Top run getters
+
+12) Decision after winning the toss
+
+13) Teams bat first or second after winning toss
+
+
 
 
 
